@@ -63,37 +63,5 @@
         "referer": "http://het114a.4rouwanda-shop.store",
         "origin": "http://het114a.4rouwanda-shop.store"
     }
-    ,
-    {
-        "name": "BEIN MULTE 1",
-        "id": "tenspk",
-        "logo": "https://up6.cc/2025/08/175873766610951.png",
-        "link": "https://wo.cma.footballii.ir/hls2/b1.m3u8",
-        "referer": "https://wo.cma.footballii.ir",
-        "origin": "https://wo.cma.footballii.ir"
-    },
-    {
-        "name": "BEIN MULTE 2",
-        "id": "asportshd",
-        "logo": "https://up6.cc/2025/08/175873766610951.png",
-        "link": "https://wo.cma.footballii.ir/hls2/b2.m3u8",
-        "referer": "https://wo.cma.footballii.ir",
-        "origin": "https://wo.cma.footballii.ir"
-    },
-    {
-        "name": "BEIN MULTE 3",
-        "id": "skyscric",
-        "logo": "https://up6.cc/2025/08/175873766610951.png",
-        "link": "https://wo.cma.footballii.ir/hls2/b3.m3u8",
-        "referer": "https://wo.cma.footballii.ir",
-        "origin": "https://wo.cma.footballii.ir"
-    },
-    {
-        "name": "BEIN MULTE 4",
-        "id": "tenspk",
-        "logo": "https://up6.cc/2025/08/175873766610951.png",
-        "link": "https://wo.cma.footballii.ir/hls2/b4.m3u8",
-        "referer": "https://wo.cma.footballii.ir",
-        "origin": "https://wo.cma.footballii.ir"
-    }
+    
 ]
